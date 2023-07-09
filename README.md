@@ -2,7 +2,13 @@
 #### Design and Development
 Hi Everyone, I am Md. Shahrukh Islam. I am a CSE student. I really enojoy learning languages and frameworks like React, Django as well as do coding. You can check me out my facebook at www.facebook.com/shahrukh.holmes.007 or www.youtube.com/studywithshahrukh
 
-Skills: REACT / JS / HTML / CSS / C / C++
+##Skills and Experience: 
+REACT
+JS 
+HTML 
+CSS 
+C 
+C++
 
 - 🌱 I’m currently learning Django, React, NodeJS, PostgreSQL 
 - 👯 I’m looking to collaborate on Machine Learing, Deep Learning 
