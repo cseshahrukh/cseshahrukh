@@ -1,6 +1,6 @@
 ### Hi there 👋, Md. Shahrukh Islam
 #### Design and Development
-Hi Everyone, I am Md. Shahrukh Islam. I am a CSE student. I really enojoy learning languages and frameworks like React, Django as well as do coding. You can check me out my facebook at www.facebook.com/shahrukh.holmes.007 or www.youtube.com/studywithshahrukh
+Hi Everyone, I am Md. Shahrukh Islam. Currently I am working as a Software Engineer I at Samsung R&D Institute Bangladesh. I have graduated from CSE, BUET. My research interest lies in Federated Learning, Deep Learning, NLP. I really enojoy learning languages and frameworks like React, Django as well as do coding. You can check me out my facebook at www.facebook.com/shahrukh.holmes.007 or www.youtube.com/studywithshahrukh
 
 ##Skills and Experience: 
 REACT
