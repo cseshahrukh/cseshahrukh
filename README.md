@@ -26,3 +26,20 @@ C++
 
 ![Profile views](https://gpvc.arturio.dev/cseshahrukh)  
 
+## 📈 ***GitHub Stats***
+
+
+<p align="center">
+<a align="left" href="https://github.com/cseshahrukh">
+<img alt="cseshahrukh's Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=cseshahrukh&show_icons=true&count_private=true&theme=algolia&hide_border=true" /> </a>
+</p>
+<p align="center">
+<a href="https://github.com/cseshahrukh">
+<img alt="zarif98sjs's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahrukh&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
+</p>
+
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=cseshahrukh&label=Profile%20Views&color=1&icon=8&pretty=true" />
+</a>
+</p>
