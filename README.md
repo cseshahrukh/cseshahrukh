@@ -35,7 +35,7 @@ C++
 </p>
 <p align="center">
 <a href="https://github.com/cseshahrukh">
-<img alt="zarif98sjs's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahrukh&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
+<img alt="cseshahrukhs's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahrukh&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
 </p>
 
 <p align="center">
